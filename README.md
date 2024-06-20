@@ -11,4 +11,8 @@ Link: https://learn.microsoft.com/en-us/training/modules/github-actions-automate
         - Container Actions
         - JavaScript Actions
         - Composite Actions
-    *   
+
+### Build continuous integration (CI) workflows by using GitHub Actions
+Link: https://learn.microsoft.com/en-us/training/modules/github-actions-ci 
+
+- 
